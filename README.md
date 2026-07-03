@@ -1,1 +1,1 @@
-# sigo-techsolvers
+# techsolvers
